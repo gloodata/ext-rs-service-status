@@ -16,4 +16,4 @@ Feel free to explore, suggest improvements, or contribute to the project. Feedba
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/gloodata/ext-js-map-examples/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/gloodata/ext-rs-service-status/blob/main/LICENSE).
